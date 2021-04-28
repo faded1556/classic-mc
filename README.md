@@ -1,2 +1,0 @@
-# classic-mc
-classic minecraft
